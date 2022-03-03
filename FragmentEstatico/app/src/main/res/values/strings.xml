@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentEstatico</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="mi_primer_fragment">Mi Primer Fragment</string>
+</resources>
